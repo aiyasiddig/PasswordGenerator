@@ -1,0 +1,19 @@
+  
+.content{
+    margin-top: 25px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+    padding: 20px;
+    width: 100%;
+
+}
+
+#display{
+    width: 100%;
+}
+
+
+#length{
+    display: inline-block;
+    width: 100px;
+}
